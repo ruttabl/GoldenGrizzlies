@@ -1,5 +1,11 @@
 README
 
+FILES:
+GUI.zip - Main code
+final product - SQL file
+README 
+
+
 To properly initialize the database the following must be done in this order!
 
 1. Launch MYSQL Workbench
@@ -71,6 +77,8 @@ WHERE EMPLOYEE_ID=1;
 SELECT DISTINCT EMPLOYEE_LNAME, SUM(SALE_SALE_AMOUNT-CAR_STARTING_PRICE)
 FROM EMPLOYEE JOIN SALE ON SALE_EMPLOYEE_ID = EMPLOYEE_ID JOIN CAR ON SALE_CAR_ID = CAR_ID
 WHERE EMPLOYEE_ID=1;
+
+
 
 
 
