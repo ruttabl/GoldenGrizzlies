@@ -1,9 +1,11 @@
 README
 
 FILES:
-GUI.zip - Main code
+
+GUI.7Z - Main code zipped with 7Zip
+
 final product - SQL file
-README 
+
 
 
 To properly initialize the database the following must be done in this order!
